@@ -23,19 +23,28 @@ Autor:
 ## 2. Sistemas de Arquivos
 ---
 
-Autor: [Seu nome completo]
-
-[Escreva a introdução]
+Autor: Gabriela
 
 ### 2.1. O que é um sistema de arquivos?
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+**Sistema de arquivo** (file system) é um conjunto de regras e estruturas usadas para organizar, gerenciar e armazenar informações em HDDs, módulos SSDs, CDs, DVDs, pen drives e cartões de memória. São essas regras que determinam como os dados serão gravados no dispositivo de armazenamento.
+Existem muitos sistemas de arquivos, cada um projetado para suportar diferentes ambientes, sistemas operacionais, dispositivos, necessidades e plataformas.
+Alguns exemplos de file systems comuns incluem o FAT32, NTFS, ReFS e exFAT utilizados por dispositivos Windows, HFS+ e APFS (macOS) e ext2, ext3, ext4 e btrfs encontrados em ambientes Linux.
+Os sistemas de arquivo são os elementos responsáveis por gerenciar como os dados são escritos, armazenados e recuperados.
+Eles mantêm diversas informações (metadados) sobre onde os dados estão alocados nos dispositivos de armazenamento e como o espaço livre será utilizado.
+Essas regras também são importantes para manter a integridade dos dados, uma vez que elas gerenciam o processo de leitura e gravação de dados. Tipos de sistemas de arquivos: FAT32, NTFS, ext4
+Um sistema de arquivos é um método que o sistema operacional usa para organizar e gerenciar arquivos e diretórios em um dispositivo de armazenamento, como um disco rígido ou um pendrive. Ele define como os dados são armazenados, acessados e organizados no dispositivo. Diferentes sistemas de arquivos (como FAT32, NTFS e ext4) possuem características específicas e são usados em diferentes sistemas operacionais ou dispositivos.
+[Sistema de arquivos: o que é e qual sua importância | 4infra]https://4infra.com.br/o-que-e-sistema-de-arquivos/#:~:text=Alguns%20exemplos%20de%20sistemas%20de,%2C%20ext3%2C%20ext4%20e%20btrfs.
+![sistema de arquivos](https://4infra.com.br/wp-content/uploads/2023/11/Sistema-de-Arquivos-1024x683.jpg)
 
 ### 2.2. Tipos de sistemas de arquivos: FAT32, NTFS, ext4
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Existem diversos sistemas de arquivos, cada um desenvolvido para atender a diferentes ambientes, sistemas operacionais, dispositivos, necessidades e plataformas.
+Alguns exemplos de sistemas de arquivos comuns incluem o FAT32, NTFS, ReFS e exFAT, utilizados por dispositivos Windows, enquanto o HFS+ e APFS são empregados no macOS. Já em ambientes Linux, encontramos sistemas como ext2, ext3, ext4 e btrfs.
+Os sistemas de arquivo desempenham um papel crucial no gerenciamento da escrita, armazenamento e recuperação de dados. Eles mantêm informações detalhadas, também conhecidas como metadados, sobre a localização dos dados nos dispositivos de armazenamento e como o espaço livre será utilizado.
+Essas regras são essenciais não apenas para a organização eficiente dos dados, mas também para preservar a integridade das informações. Isso ocorre porque elas supervisionam o processo de leitura e gravação de dados, garantindo um funcionamento consistente e seguro.
 
 
 ## 3. Gerenciamento de Dispositivos
@@ -48,13 +57,12 @@ Autor: Kayla
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
 ---
 
-O Sistema Operacional (SO) se comunica com periféricos como impressoras, HDs e mouses através de drivers, que são programas que permitem que o SO interaja com os dispositivos. Os drivers traduzem as solicitações do SO em comandos específicos para cada dispositivo, e vice-versa. 
-
+[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
 
-Os drivers de dispositivos são softwares que permitem a comunicação entre o sistema operacional e o hardware. Eles atuam como intermediários, traduzindo os comandos do sistema operacional para uma linguagem que o hardware possa entender, e vice-versa. Sem os drivers, um dispositivo de hardware não pode ser utilizado. 
+[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
 
 
 ## 4. Painel de Controle e Configurações
