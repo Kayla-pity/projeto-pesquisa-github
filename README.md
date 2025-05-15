@@ -47,23 +47,19 @@ Os sistemas de arquivo desempenham um papel crucial no gerenciamento da escrita,
 Essas regras são essenciais não apenas para a organização eficiente dos dados, mas também para preservar a integridade das informações. Isso ocorre porque elas supervisionam o processo de leitura e gravação de dados, garantindo um funcionamento consistente e seguro.
 
 
-## 3. Gerenciamento de Dispositivos
----
-
-Autor: Kayla
-
-[Escreva a introdução]
-
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+O Sistema Operacional (SO) se comunica com periféricos como impressoras, HDs e mouses através de drivers, que são programas que permitem que o SO interaja com os dispositivos. Os drivers traduzem as solicitações do SO em comandos específicos para cada dispositivo, e vice-versa. 
+
+![nome da imagem](![alt text](image.png))
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Os drivers de dispositivos são softwares que permitem a comunicação entre o sistema operacional e o hardware. Eles atuam como intermediários, traduzindo os comandos do sistema operacional para uma linguagem que o hardware possa entender, e vice-versa. Sem os drivers, um dispositivo de hardware não pode ser utilizado. 
 
+[nome do site](https://learn.microsoft.com/pt-br/windows-hardware/drivers/gettingstarted/what-is-a-driver-)
 
 ## 4. Painel de Controle e Configurações
 ---
