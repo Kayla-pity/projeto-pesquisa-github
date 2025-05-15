@@ -100,17 +100,40 @@ Autor: [Seu nome completo]
 ## 5. Ferramentas do Sistema
 ---
 
-Autor: [Seu nome completo]
+Autor: Gustavo
 
-[Escreva a introdução]
 
 ### 5.1. Gerenciador de Tarefas
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Um gerenciador de tarefas, no contexto de software, é uma ferramenta que permite listar, organizar, priorizar e acompanhar o progresso de tarefas
+Gerenciador de Tarefas (Windows): Em português: Gerenciador de Tarefas (sem "do Windows"), Em inglês: Task Manager.
+Monitor do Sistema (Linux/macOS):
+Em português: Monitor do Sistema (ou Gerenciador de Tarefas, dependendo do contexto, mas o primeiro é mais apropriado para a função)
+Em Windows, "Gerenciador de Tarefas" é a ferramenta padrão para gerenciar processos e desempenho do sistema.
+Em Linux e macOS, "Monitor do Sistema" é a ferramenta padrão para monitorar o desempenho do sistema, mas também pode ser chamado de "Gerenciador de Tarefas" em algumas situações, dependendo da distribuição ou contexto.
+A nomenclatura "Monitor do Sistema" é mais genérica e mais apropriada para a função de monitoramento, enquanto "Gerenciador de Tarefas" pode ter uma conotação mais direta com a gestão de processos.
+Em contextos específicos, como a interface do usuário de uma aplicação ou ferramenta, a nomenclatura pode variar (por exemplo, "Monitor de Desempenho" ou "Ferramenta de Monitoramento").
+
+
+[nome do site](https://www.youtube.com/watch?v=RFtF-G3wUAQ)
+![nome da imagem](https://images.wondershare.com/recoverit/task-manager-mac-1.jpg)
+
 
 ### 5.2. Prompt de Comando / Terminal
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+ É uma interface de linha de comando (CLI) que permite que o utilizador interaja com o sistema operacional (SO) através de comandos de texto, em vez de uma interface gráfica.
+ Permite visualizar o desempenho do sistema, incluindo o desempenho de processos e serviço.
+No Windows, clique com o botão direito no ícone do Windows, selecione "Pesquisar" e digite "Prompt de Comando".
+ Clique com o botão direito e selecione "Executar como administrador", de acordo com a EaseUS. 
+1. Acessar o Prompt de Comando: Abra o Prompt de Comando (Windows) ou o Terminal (Linux/macOS) como administrador. 
+2. Identificar a Unidade: Determine qual a letra da unidade que deseja formatar (ex: D:, E:, etc). 
+3. Usar o Comando format: Digite o comando "format" seguido da letra da unidade, do parâmetro /FS: e o sistema de arquivos desejado (FAT32, NTFS ou exFAT). 
+4. Formatação Rápida: Adicione o parâmetro /Q para uma formatação rápida, que elimina a necessidade de verificar a unidade. e Enter.
+ Substitua "[número_do_disco]" pelo número correspondent.
+
+
+[nome do site](https://www.youtube.com/watch?v=qGdOFdBPBRM&pp=0gcJCdgAo7VqN5tD)
+![nome da imagem](https://dtnetwork.com.br/wp-content/uploads/2023/07/comandos-basicos-do-cmd.png)
 
