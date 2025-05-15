@@ -48,12 +48,13 @@ Autor: Kayla
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+O Sistema Operacional (SO) se comunica com periféricos como impressoras, HDs e mouses através de drivers, que são programas que permitem que o SO interaja com os dispositivos. Os drivers traduzem as solicitações do SO em comandos específicos para cada dispositivo, e vice-versa. 
+
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Os drivers de dispositivos são softwares que permitem a comunicação entre o sistema operacional e o hardware. Eles atuam como intermediários, traduzindo os comandos do sistema operacional para uma linguagem que o hardware possa entender, e vice-versa. Sem os drivers, um dispositivo de hardware não pode ser utilizado. 
 
 
 ## 4. Painel de Controle e Configurações
