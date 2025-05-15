@@ -64,13 +64,18 @@ Alguns exemplos de sistemas de arquivos comuns incluem o FAT32, NTFS, ReFS e exF
 Os sistemas de arquivo desempenham um papel crucial no gerenciamento da escrita, armazenamento e recuperação de dados. Eles mantêm informações detalhadas, também conhecidas como metadados, sobre a localização dos dados nos dispositivos de armazenamento e como o espaço livre será utilizado.
 Essas regras são essenciais não apenas para a organização eficiente dos dados, mas também para preservar a integridade das informações. Isso ocorre porque elas supervisionam o processo de leitura e gravação de dados, garantindo um funcionamento consistente e seguro.
 
+## 3. Gerenciamento de Dispositivos
+---
+
+Autor: Kayla
+
 
 ### 3.1. Como o SO se comunica com impressoras, HDs, mouses etc.
 ---
 
 O Sistema Operacional (SO) se comunica com periféricos como impressoras, HDs e mouses através de drivers, que são programas que permitem que o SO interaja com os dispositivos. Os drivers traduzem as solicitações do SO em comandos específicos para cada dispositivo, e vice-versa. 
 
-![nome da imagem](![alt text](image.png))
+![nome da imagem](image.png)
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
