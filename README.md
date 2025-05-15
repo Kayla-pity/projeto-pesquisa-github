@@ -5,20 +5,38 @@ Grupo: Gyck|Sense
 ## 1. Funções de um Sistema Operacional
 ---
 
-Autor: 
+Autor: Karine
 
-[Escreva a introdução]
+**Um sistema operacional (SO) tem a função de servir como intermediário entre o hardware e o software, fornecendo uma interface para o usuário e gerindo recursos de forma eficiente.**
 
 ### 1.1. Gerenciamento de processos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+**O gerenciamento de processos é uma das principais funções de um sistema operacional, responsável por controlar e coordenar todas as atividades de execução de programas (processos) no sistema.**
+***Criação, Execução e Finalização:***
+O SO cria novos processos, inicia sua execução e os finaliza quando necessário.
+***Agendamento:***
+O SO decide qual processo deve ser executado em determinado momento, usando algoritmos de escalonamento para garantir a eficiência.
+***Alocação de Recursos:***
+O SO aloca recursos do sistema (como CPU, memória, dispositivos) aos processos em execução.
+***Comunicação e Sincronização:*** 
+O SO facilita a comunicação e sincronização entre processos, permitindo que eles compartilhem dados e cooperem.
 
 ### 1.2. Gerenciamento de arquivos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+**O gerenciamento de arquivos é uma função essencial de um sistema operacional (SO), responsável por organizar, armazenar e acessar arquivos em dispositivos de armazenamento.** 
+***Criação e Deleção de Arquivos:***
+O sistema operacional permite aos usuários criar novos arquivos e deletar arquivos não mais necessários. 
+***Organização em Diretórios:***
+Os arquivos são organizados em diretórios (pastas) para facilitar a navegação e o acesso.
+***Acesso e Permissões:***
+O sistema operacional controla o acesso aos arquivos, definindo quais usuários têm permissão para ler, gravar ou executar um determinado arquivo. 
+***Mapeamento de Arquivos em Disco:***
+O sistema operacional mapeia os arquivos em disco, permitindo que os programas acessem os dados de forma eficiente. 
 
+![Processos](https://miro.medium.com/v2/resize:fit:1200/1*qEgqvqcXDNB96ks4czt_gQ.png)
+[Sistemas Operacionais](https://educacao.fit-tecnologia.org.br/courses/course-v1:fiteducacao+UX+WEB-2020/courseware/66e07b15f44a4b38912869892c8b5757/993ae6a32d0b420e87a13a7ee6eb7005/?activate_block_id=block-v1%3Afiteducacao%2BUX%2BWEB-2020%2Btype%40sequential%2Bblock%40993ae6a32d0b420e87a13a7ee6eb7005)
 
 ## 2. Sistemas de Arquivos
 ---
