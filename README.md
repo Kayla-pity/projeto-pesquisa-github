@@ -75,7 +75,7 @@ Autor: Kayla
 
 O Sistema Operacional (SO) se comunica com periféricos como impressoras, HDs e mouses através de drivers, que são programas que permitem que o SO interaja com os dispositivos. Os drivers traduzem as solicitações do SO em comandos específicos para cada dispositivo, e vice-versa. 
 
-![nome da imagem](image.png)
+![image.png](https://www.coladaweb.com/wp-content/uploads/2014/12/sistema-operacional.jpg)
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
