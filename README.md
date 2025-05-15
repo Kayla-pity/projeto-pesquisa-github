@@ -82,19 +82,64 @@ Os drivers de dispositivos são softwares que permitem a comunicação entre o s
 ## 4. Painel de Controle e Configurações
 ---
 
-Autor: [Seu nome completo]
+Autor: Yago Smirelli
 
-[Escreva a introdução]
+O Painel de Controle é uma ferramenta usada para visualizar e modifcar as configurações do sistema. Já o app Configurações é o sucessor do Painel de Controle, com as mesmas configurações, e com um acesso simplificado.
+
+[Acessibilidade](https://mwpt.com.br/ferramentas-de-acessibilidade-nativas-do-windows-e-do-seu-celular-android-que-voce-precisa-conhecer/#:~:text=Filtros%20de%20cor:%20essa%20%C3%A9,com%20o%20tipo%20de%20daltonismo)
+![Painel de Controle](https://s2-techtudo.glbimg.com/_PwrPkjYh_A6XtlBbhFH_uh7pgk=/0x0:695x491/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/w/8/UQ4fhpQeCUW4aKkZ9llQ/2015-06-19-captura-de-tela-2015-06-13-as-202914.png)
 
 ### 4.1. O que pode ser configurado: rede, som, tela, idioma
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+No Painel de Controle do Windows (que está gradualmente a ser substituído pela app Configurações) é possível configurar diversas funcionalidades relacionadas com a rede, som, tela e idioma, entre outras. 
+Rede:
+Configuração de conexões de rede:
+O Painel de Controle permite configurar e gerir as conexões de rede, como conexões Wi-Fi, Ethernet, VPN, entre outras.
+Configuração de propriedades de rede:
+Permite ajustar propriedades como endereços IP, DNS, e outros protocolos de rede.
+Visualização do estado da rede:
+Permite verificar o estado da conexão de rede, como a conexão Wi-Fi ativa, a velocidade de upload/download, entre outros. 
+Som:
+Configuração de dispositivos de áudio: O Painel de Controle permite escolher o dispositivo de saída de áudio (alto-falantes, fones de ouvido) e de entrada (microfone).
+Configuração de volume e qualidade de áudio: Permite ajustar o volume de cada dispositivo e a qualidade do áudio.
+Configuração de efeitos de áudio: Permite aplicar efeitos de som, como equalização, e outros efeitos. 
+Tela:
+Configuração de resolução:
+Permite alterar a resolução da tela, ajustando-a para a que melhor se adapta ao seu monitor.
+Configuração de layout da tela:
+Permite configurar o layout da tela, como a orientação (horizontal/vertical), a escala e outras opções.
+Configuração de tema da tela:
+Permite escolher o tema da tela, que pode ser uma cor sólida, um padrão ou uma imagem. 
+Idioma:
+Configuração do idioma de entrada:
+Permite selecionar o idioma de entrada do teclado, permitindo que você possa usar diferentes idiomas para escrever.
+Configuração do idioma de exibição:
+Permite escolher o idioma de exibição do sistema operacional, alterando assim o idioma do sistema operacional.
+Configuração de formatos de data e hora:
+Permite configurar o formato de data e hora, ajustando-o para o padrão do seu país. 
+Em resumo, o Painel de Controle oferece uma forma centralizada de gerir as configurações do sistema, incluindo a rede, som, tela e idioma. 
+
 
 ### 4.2. Ferramentas de acessibilidade
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Ferramentas de Acessibilidade no Windows:
+Narrador: Um leitor de tela que lê o conteúdo do ecrã em voz alta, permitindo que pessoas com deficiência visual naveguem no sistema. 
+Lupa: Permite ampliar a exibição do ecrã para facilitar a leitura e a visualização de detalhes. 
+Contraste: Ajusta as cores do ecrã para melhor visibilidade, especialmente para pessoas com deficiência visual ou baixa visão. 
+Filtros de cor: Permite personalizar as cores do ecrã para ajudar a diferenciar cores e facilitar a leitura. 
+Legendas ao vivo: Transcreve o áudio em tempo real para legendas, facilitando a audição de pessoas com deficiência auditiva. 
+Acesso por voz: Permite controlar o computador com comandos de voz, ideal para pessoas com dificuldades em usar o teclado e o rato. 
+Controlo com os olhos: Permite navegar no computador com os olhos, útil para pessoas com dificuldades motoras. 
+Digitação por voz: Permite digitar textos e e-mails utilizando comandos de voz. 
+Teclado na tela (OSK): Permite digitar usando um teclado virtual, útil para pessoas com dificuldades em usar o teclado físico. 
+Atalhos de teclado: Permitem executar ações mais rapidamente e de forma mais eficiente. 
+Controlo do rato e teclado: Permite personalizar as configurações do rato e teclado para facilitar o uso. 
+Windows Hello: Permite entrar no sistema sem senha, utilizando reconhecimento facial ou impressão digital. 
+Verificador de acessibilidade: Permite verificar se um documento ou e-mail é acessível. 
+Gestos de toque: Permite usar gestos de toque para interagir com o sistema. 
+Compatibilidade com dispositivos braille: O Narrador é compatível com dispositivos Braille, permitindo que pessoas com deficiência visual leiam e escrevam em Braille. 
 
 
 ## 5. Ferramentas do Sistema
